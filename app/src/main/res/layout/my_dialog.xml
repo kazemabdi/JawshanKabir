@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="14dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:fontFamily="@font/far_nazanin"
+        android:text="@string/my_dialog_tv"
+        android:textSize="21sp" />
+
+    <EditText
+        android:id="@+id/my_dialog_et"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/my_dialog_et"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/my_dialog_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/my_dialog_btn_text" />
+</LinearLayout>

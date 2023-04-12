@@ -1,0 +1,12 @@
+<resources>
+    <!--    <string name="app_name">Jawshan Kabir</string>-->
+    <string name="app_name">جوشن کبیر</string>
+    <string name="activity_main_header_tv">دعای جوشن کبیر</string>
+    <string name="my_dialog_tv">برو به فراز</string>
+    <string name="my_dialog_et">فراز</string>
+    <string name="my_dialog_btn_text">انجام</string>
+    <string name="activity_splash_main_tv">جوشن کبیر</string>
+    <string name="activity_splash_bsm_a_tv">بسم ٱللَّٰهِ الرحمن الرحیم</string>
+    <string name="activity_splash_my_tv">محمد کاظم عبدی‌پور</string>
+
+</resources>
